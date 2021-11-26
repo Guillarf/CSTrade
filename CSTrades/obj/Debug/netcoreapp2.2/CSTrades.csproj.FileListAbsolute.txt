@@ -1,0 +1,11 @@
+C:\Users\Pichau\source\repos\CSTrades\CSTrades\bin\Debug\netcoreapp2.2\CSTrades.deps.json
+C:\Users\Pichau\source\repos\CSTrades\CSTrades\bin\Debug\netcoreapp2.2\CSTrades.runtimeconfig.json
+C:\Users\Pichau\source\repos\CSTrades\CSTrades\bin\Debug\netcoreapp2.2\CSTrades.runtimeconfig.dev.json
+C:\Users\Pichau\source\repos\CSTrades\CSTrades\bin\Debug\netcoreapp2.2\CSTrades.dll
+C:\Users\Pichau\source\repos\CSTrades\CSTrades\bin\Debug\netcoreapp2.2\CSTrades.pdb
+C:\Users\Pichau\source\repos\CSTrades\CSTrades\obj\Debug\netcoreapp2.2\CSTrades.csprojAssemblyReference.cache
+C:\Users\Pichau\source\repos\CSTrades\CSTrades\obj\Debug\netcoreapp2.2\CSTrades.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\CSTrades\CSTrades\obj\Debug\netcoreapp2.2\CSTrades.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\CSTrades\CSTrades\obj\Debug\netcoreapp2.2\CSTrades.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\CSTrades\CSTrades\obj\Debug\netcoreapp2.2\CSTrades.dll
+C:\Users\Pichau\source\repos\CSTrades\CSTrades\obj\Debug\netcoreapp2.2\CSTrades.pdb
